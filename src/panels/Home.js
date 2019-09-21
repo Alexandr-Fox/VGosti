@@ -7,7 +7,7 @@ const Home = ({ id, go, fetchedUser }) => (
 		<PanelHeader>ВГости: Ваши гости Вконтакте</PanelHeader>
 		<Group title="">
 			<Div>
-				<Button size="xl" level="2" onClick={go} data-to="persik">
+				<Button size="l" level="2" onClick={go} data-to="persik">
 					Персик
 				</Button>
 			</Div>
