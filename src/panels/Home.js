@@ -5,16 +5,6 @@ import { Panel, ListItem, Button, Group, Div, Avatar, PanelHeader } from '@vkont
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
 		<PanelHeader>ВГости: Ваши гости Вконтакте</PanelHeader>
-		{fetchedUser &&
-		<Group title="User Data Fetched with VK Connect">
-			<ListItem
-				before={fetchedUser.photo_200 ? <Avatar src={fetchedUser.photo_200}/> : null}
-				description={fetchedUser.city && fetchedUser.city.title ? fetchedUser.city.title : ''}
-			>
-				{`${fetchedUser.first_name} ${fetchedUser.last_name}`}
-			</ListItem>
-		</Group>}
-
 		<Group title="">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="Persik">
