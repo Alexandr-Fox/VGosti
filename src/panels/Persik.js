@@ -10,11 +10,11 @@ const osname = platform();
 
 const Persik = props => (
 	<Panel id={props.id}>
-		<PanelHeader
+		<PanelHeader>
 			left={<HeaderButton onClick={props.go} data-to="home">
 				{osname === IOS ? <Icon28ChevronBack/> : <Icon24Back/>}
 			</HeaderButton>}
-		>
+		
 			Персик
 		</PanelHeader>
 		<img className="Persik" src={persik} alt="Persik The Cat"/>

@@ -11,7 +11,7 @@ const Home = ({ id, go, fetchedUser }) => (
 			<Div>
 				<img className="Home" src={persik} alt="Persik The Cat"/>
 				<Button size="l" level="2" onClick={go} data-to="persik">
-					Персик
+					Персикк
 				</Button>
 			</Div>
 		</Group>
