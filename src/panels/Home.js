@@ -1,6 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Panel, ListItem, Button, Group, Div, Avatar, PanelHeader } from '@vkontakte/vkui';
+import persik from '../img/persik.png';
+import './Persik.css';
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
