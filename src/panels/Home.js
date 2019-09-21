@@ -7,7 +7,7 @@ const Home = ({ id, go, fetchedUser }) => (
 		<PanelHeader>ВГости: Ваши гости Вконтакте</PanelHeader>
 		<Group title="">
 			<Div>
-				<img className="Persik" src={persik} alt="Persik The Cat"/>
+				<img className="Home" src={persik} alt="Persik The Cat"/>
 				<Button size="l" level="2" onClick={go} data-to="persik">
 					Персик
 				</Button>
