@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/VGosti/static/css/2.c91ad5c0.chunk.css"
   },
   {
-    "revision": "0b9fe29c670dd380110d84a8ec891bd8",
+    "revision": "f896895885c4b1064949835c05191757",
     "url": "/VGosti/index.html"
   }
 ];
