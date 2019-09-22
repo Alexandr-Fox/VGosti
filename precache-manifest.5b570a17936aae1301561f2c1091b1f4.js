@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/VGosti/static/js/runtime~main.9f343678.js"
   },
   {
-    "revision": "86f606b4a701589f25d9",
-    "url": "/VGosti/static/js/main.4be54624.chunk.js"
+    "revision": "67ad013692f159cc2ad9",
+    "url": "/VGosti/static/js/main.73732ccc.chunk.js"
   },
   {
-    "revision": "cec7e618be6166f3198d",
-    "url": "/VGosti/static/js/2.37407981.chunk.js"
+    "revision": "b205bb06d45081416ba2",
+    "url": "/VGosti/static/js/2.b66ec025.chunk.js"
   },
   {
-    "revision": "86f606b4a701589f25d9",
-    "url": "/VGosti/static/css/main.6a34e39c.chunk.css"
+    "revision": "67ad013692f159cc2ad9",
+    "url": "/VGosti/static/css/main.a615c808.chunk.css"
   },
   {
-    "revision": "cec7e618be6166f3198d",
+    "revision": "b205bb06d45081416ba2",
     "url": "/VGosti/static/css/2.c91ad5c0.chunk.css"
   },
   {
-    "revision": "8a2055f302a7f54dae902f833d1f7042",
+    "revision": "e911cc985a3fbe193a7be37e7ac53040",
     "url": "/VGosti/index.html"
   }
 ];
