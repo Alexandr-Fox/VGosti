@@ -6,7 +6,7 @@ import './Persik.css';
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
-		<PanelHeader>ВГости: Ваши гости Вконтакте</PanelHeader>
+		<PanelHeader>ВГости: Ваши гости ВКонтакте</PanelHeader>
 			<img className="Persik" src={persik} alt="Persik The Cat"/>
 			<Button size="xl" level="2" onClick={go} data-to="persik">
 				Персик
