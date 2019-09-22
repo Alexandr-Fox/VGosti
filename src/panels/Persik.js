@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import {Panel, PanelHeader, HeaderButton, platform, IOS} from '@vkontakte/vkui';
 import persik from '../img/persik.png';
 import './Persik.css';
+import './Text.css';
 import Icon28ChevronBack from '@vkontakte/icons/dist/28/chevron_back';
 import Icon24Back from '@vkontakte/icons/dist/24/back';
 
@@ -17,8 +18,11 @@ const Persik = props => (
 		>
 			Персик
 		</PanelHeader>
+		
 		<img className="Persik" src={persik} alt="Persik The Cat"/>
-		<title>Привет! Я Персик.</title>
+		<text className="Text"> Привет! Я Персик.</text>
+		<text className="Text"> Буду рад с тобой познакомиться.</text>
+		
 	</Panel>
 );
 

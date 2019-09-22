@@ -10,6 +10,7 @@ const Home = ({ id, go }) => (
 		<Group title="">
 			<Div>
 				<img className="Avatar" src={persik} alt="Persik The Cat"/>
+
 				<Button size="xl" level="1" onClick={go} data-to="persik">
 					Персик
 				</Button>
