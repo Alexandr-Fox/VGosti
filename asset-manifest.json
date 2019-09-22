@@ -1,16 +1,16 @@
 {
-  "main.css": "/VGosti/static/css/main.89a303f8.chunk.css",
-  "main.js": "/VGosti/static/js/main.ebcbffb3.chunk.js",
-  "main.js.map": "/VGosti/static/js/main.ebcbffb3.chunk.js.map",
+  "main.css": "/VGosti/static/css/main.488fab21.chunk.css",
+  "main.js": "/VGosti/static/js/main.61238168.chunk.js",
+  "main.js.map": "/VGosti/static/js/main.61238168.chunk.js.map",
   "runtime~main.js": "/VGosti/static/js/runtime~main.9f343678.js",
   "runtime~main.js.map": "/VGosti/static/js/runtime~main.9f343678.js.map",
   "static/css/2.c91ad5c0.chunk.css": "/VGosti/static/css/2.c91ad5c0.chunk.css",
-  "static/js/2.418d918e.chunk.js": "/VGosti/static/js/2.418d918e.chunk.js",
-  "static/js/2.418d918e.chunk.js.map": "/VGosti/static/js/2.418d918e.chunk.js.map",
+  "static/js/2.ee7ce63e.chunk.js": "/VGosti/static/js/2.ee7ce63e.chunk.js",
+  "static/js/2.ee7ce63e.chunk.js.map": "/VGosti/static/js/2.ee7ce63e.chunk.js.map",
   "index.html": "/VGosti/index.html",
-  "precache-manifest.788b0ea17e48b6a7c766a8349fa44f3d.js": "/VGosti/precache-manifest.788b0ea17e48b6a7c766a8349fa44f3d.js",
+  "precache-manifest.736ec925b46a50d7134acf8712fa98c0.js": "/VGosti/precache-manifest.736ec925b46a50d7134acf8712fa98c0.js",
   "service-worker.js": "/VGosti/service-worker.js",
   "static/css/2.c91ad5c0.chunk.css.map": "/VGosti/static/css/2.c91ad5c0.chunk.css.map",
-  "static/css/main.89a303f8.chunk.css.map": "/VGosti/static/css/main.89a303f8.chunk.css.map",
+  "static/css/main.488fab21.chunk.css.map": "/VGosti/static/css/main.488fab21.chunk.css.map",
   "static/media/persik.png": "/VGosti/static/media/persik.4e1ec840.png"
 }
