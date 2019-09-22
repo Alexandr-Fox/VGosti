@@ -18,6 +18,7 @@ const Persik = props => (
 			Персик
 		</PanelHeader>
 		<img className="Persik" src={persik} alt="Persik The Cat"/>
+		<title>Привет! Я Персик.</title>
 	</Panel>
 );
 
