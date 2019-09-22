@@ -8,7 +8,7 @@ const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
 		<PanelHeader>ВГости: Ваши гости Вконтакте</PanelHeader>
 			<img className="Persik" src={persik} alt="Persik The Cat"/>
-			<Button size="l" level="2" onClick={go} data-to="persik">
+			<Button size="xl" level="2" onClick={go} data-to="persik">
 				Персик
 			</Button>
 	</Panel>
